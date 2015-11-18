@@ -22,4 +22,4 @@ Siguiendo los datos de peticiones de asilo, he creado este [gráfico](https://fl
 
 <https://flowsta.github.io/refugees-wellcome/>
 
-<iframe src="https://flowsta.github.io/refugees-wellcome/" width="600" height="980"></iframe>
+<iframe src="https://flowsta.github.io/refugees-wellcome/" width="600" height="980" frameborder="0" allowfullscreen="allowfullscreen">iframe</iframe>
