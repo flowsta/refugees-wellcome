@@ -26,6 +26,4 @@ Dado que [Datawrapper](https://datawrapper.de) cambió en diciembre de 2014 sus 
 
 Si se quiere embeber en una página, se puede incluir este código:
 
-\#+BEGIN\_SRC html
-<iframe src="<https://flowsta.github.io/refugees-wellcome/>" width="600" height="980" frameborder="0" allowfullscreen="allowfullscreen">iframe</iframe>
-\\#+END\_SRC html
+    <iframe src="https://flowsta.github.io/refugees-wellcome/" width="600" height="980" frameborder="0" allowfullscreen="allowfullscreen">/iframe>
