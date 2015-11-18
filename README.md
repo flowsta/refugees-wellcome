@@ -20,6 +20,12 @@ Las fuentes del mapa son varias:
 
 Siguiendo los datos de peticiones de asilo, he creado este [gráfico](https://flowsta.github.io/refugees-wellcome/) en Datawrapper sobre las peticiones de asilo aprobadas en países europeos:
 
+Dado que [Datawrapper](https://datawrapper.de) cambió en diciembre de 2014 sus [condiciones de publicación](http://blog.datawrapper.de/2014/new-usage-guidelines-for-datawrapper/) y como usuarix gratuito te permite descargarte un *zip* con el proyecto, he creado una rama en el proyecto de GitHub llamada *gh-pages* para publicar el contenido del *zip*, que está publicado aquí:
+
 <https://flowsta.github.io/refugees-wellcome/>
 
-<iframe src="https://flowsta.github.io/refugees-wellcome/" width="600" height="980" frameborder="0" allowfullscreen="allowfullscreen">iframe</iframe>
+Si se quiere embeber en una página, se puede incluir este código:
+
+\#+BEGIN\_SRC html
+<iframe src="<https://flowsta.github.io/refugees-wellcome/>" width="600" height="980" frameborder="0" allowfullscreen="allowfullscreen">iframe</iframe>
+\\#+END\_SRC html
