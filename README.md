@@ -21,3 +21,5 @@ Las fuentes del mapa son varias:
 Siguiendo los datos de peticiones de asilo, he creado este [gráfico](https://flowsta.github.io/refugees-wellcome/) en Datawrapper sobre las peticiones de asilo aprobadas en países europeos:
 
 <https://flowsta.github.io/refugees-wellcome/>
+
+<iframe src="https://flowsta.github.io/refugees-wellcome/" width="600" height="980"></iframe>
